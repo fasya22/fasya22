@@ -14,16 +14,12 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-<br>
 
 ### I am an Informatics Engineering Student
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-
-<br>
-<br>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
