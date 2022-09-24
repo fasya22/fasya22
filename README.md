@@ -24,3 +24,5 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
+
+[linkedin]: https://www.linkedin.com/in/nurhalisahfasya/
