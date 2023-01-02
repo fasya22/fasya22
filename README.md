@@ -18,7 +18,6 @@
 ### I am an Informatics Engineering Student
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Data Visualization.
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <div align="center">
