@@ -15,13 +15,10 @@
 </p>
 
 
-### I am an Informatics Engineering Student
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Data Visualization.
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+## Stats
+[![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasya22&show_icons=true&theme=dracula&count_private=true)]
 
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
 
-[linkedin]: https://www.linkedin.com/in/nurhalisahfasya/
+## Languages 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasya22&layout=compact&hide=css,html,handlebars)]
+
